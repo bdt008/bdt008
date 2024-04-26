@@ -1,4 +1,6 @@
 ### 📝 About Me: 
+📍 Currently based in Pennsylvania
+📖 Documenting my programming journey and building in public here
 
 <!--
 **bdt008/bdt008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
