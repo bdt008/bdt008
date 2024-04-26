@@ -1,5 +1,5 @@
 ### 📝 About Me: 
-📍 Currently based in Pennsylvania
+📍 Currently based in Pennsylvania <br><br>
 📖 Documenting my programming journey and building in public here
 
 <!--
