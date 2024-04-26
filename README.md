@@ -1,6 +1,6 @@
 ### 📝 About Me: 
 📍 Currently based in Pennsylvania <br><br>
-📖 Documenting my programming journey and building in public here
+📖 Documenting my programming journey and building in public here (bryantdeltoro.wordpress.com) <br><br>
 
 <!--
 **bdt008/bdt008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
